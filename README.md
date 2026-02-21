@@ -47,3 +47,9 @@ Fokus utama pengembangan project ini adalah:
 ---
 
 ## 📂 Struktur Folder
+
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
